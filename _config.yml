@@ -80,7 +80,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: "assets/img/WhatsApp Image 2022-05-27 at 1.56.09 PM.jpeg"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
